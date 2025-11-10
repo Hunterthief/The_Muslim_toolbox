@@ -21,7 +21,6 @@ These compile apps, tools, and guides for Islamic practice. Use them for compreh
 ### Mobile Apps
 Essential apps for prayer, Quran, and daily reminders. Many are free with optional premium features.
 
-* <a href="https://www.muslimpro.com/" target="_blank" rel="noopener noreferrer">Muslim Pro</a> 🌟 - All-in-one app with prayer times, Quran, Qibla finder, and Azan notifications. Supports multiple languages including Arabic and English.
 * <a href="https://play.google.com/store/apps/details?id=com.pakdata.QuranMajeed" target="_blank" rel="noopener noreferrer">Quran Majeed</a> 🌟 - Quran reading with translations, recitations, and prayer reminders. Includes tafsir and memorization tools. Supports Arabic and English.
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - AI-powered Quran recitation app for memorization and correction. Supports Arabic and English.
 * <a href="https://www.pillarsapp.com/" target="_blank" rel="noopener noreferrer">Pillars</a> 🌟 - Ad-free prayer app with privacy focus, accurate times, and Qibla. Supports multiple languages.
@@ -95,6 +94,7 @@ For developers building Islamic tools.
 * <a href="https://github.com/batoulapps/adhan" target="_blank" rel="noopener noreferrer">AlAdhan API</a> - Prayer times API. Supports multiple languages.
 * <a href="https://quran.api-docs.io/" target="_blank" rel="noopener noreferrer">Quran.com API</a> - Quran data access. Supports English.
 * <a href="https://sunnah.com/api" target="_blank" rel="noopener noreferrer">Sunnah API</a> - Hadith API. Supports English.
+* 
 
 ### Extensions & Others
 Browser tools and miscellaneous.
@@ -137,7 +137,6 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 ### تطبيقات الهواتف المحمولة
 تطبيقات أساسية للصلاة والقرآن والتذكيرات اليومية. الكثير منها مجاني مع ميزات إضافية اختيارية.
 
-* <a href="https://www.muslimpro.com/" target="_blank" rel="noopener noreferrer">Muslim Pro</a> 🌟 - تطبيق شامل مع أوقات الصلاة، القرآن، محدد القبلة، وإشعارات الأذان. يدعم لغات متعددة بما في ذلك العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=net.andromo.dev540689.app524253" target="_blank" rel="noopener noreferrer">محمد صديق المنشاوي</a> - تطبيق يحتوي على القرآن الكريم كاملاً بصوت الشيخ محمد صديق المنشاوي بدون إنترنت، مع إعلانات. يدعم العربية.
 * <a href="https://play.google.com/store/apps/details?id=com.pakdata.QuranMajeed" target="_blank" rel="noopener noreferrer">Quran Majeed</a> 🌟 - قراءة القرآن مع ترجمات، تلاوات، وتذكيرات الصلاة. يشمل تفسير وأدوات حفظ. يدعم العربية والإنجليزية.
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - تطبيق تلاوة قرآنية مدعوم بالذكاء الاصطناعي لحفظ وتصحيح. يدعم العربية والإنجليزية.
