@@ -17,7 +17,7 @@ These compile apps, tools, and guides for Islamic practice. Use them for compreh
 * <a href="https://github.com/AhmedKamal/awesome-Islam" target="_blank" rel="noopener noreferrer">Awesome-Islam</a> 🌟 - Another curated collection of Islam-related projects, frameworks, and resources like Quran apps and learning tools.
 * <a href="https://www.reddit.com/r/MuslimLounge/" target="_blank" rel="noopener noreferrer">r/MuslimLounge</a> - Community thread on must-have Islamic apps, including Al Quran, Hisnul Muslim, Kalaam, and more.
 * <a href="https://www.reddit.com/r/islam/" target="_blank" rel="noopener noreferrer">r/islam/</a> - Comprehensive thread on free resources for Muslims, including apps and websites.
-* 
+
 ### Communities
 Reddit communities for discussions on Islam, Quran, and related topics.
 
