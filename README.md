@@ -26,6 +26,7 @@ Essential apps for prayer, Quran, and daily reminders. Many are free with option
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - AI-powered Quran recitation app for memorization and correction. Supports Arabic and English.
 * <a href="https://www.pillarsapp.com/" target="_blank" rel="noopener noreferrer">Pillars</a> 🌟 - Ad-free prayer app with privacy focus, accurate times, and Qibla. Supports multiple languages.
 * <a href="https://play.google.com/store/apps/details?id=com.islam.hisn" target="_blank" rel="noopener noreferrer">Hisnul Muslim</a> - Duas and dhikr from Quran and Hadith, with reminders. Supports Arabic and English.
+* <a href="https://mawaqit.net/en/" target="_blank" rel="noopener noreferrer">Mawaqit</a> 🌟 - Free mobile app for accurate prayer times, mosque search by geolocation, Athan notifications, reminders, announcements, and integration with Alexa and Home Assistant. Supports multiple languages including Arabic and English.
 * <a href="https://www.mathani.app/blog/best-islamic-apps-to-support-quran-journey-2025" target="_blank" rel="noopener noreferrer">Quranly</a> - Habit-building app for daily Quran reading. Supports English.
 * <a href="https://www.mathani.app/" target="_blank" rel="noopener noreferrer">Mathani</a> - Quran memorization tool with progress tracking. Supports English.
 * <a href="https://bayyinah.tv/" target="_blank" rel="noopener noreferrer">Bayyinah TV</a> - Tafsir and Islamic lectures for deeper understanding. Supports English.
@@ -70,6 +71,7 @@ For broader access on computers or browsers.
 
 * <a href="https://quran.com/" target="_blank" rel="noopener noreferrer">Quran.com</a> 🌟 - Online Quran reader with translations, audio, and tafsir. Supports Arabic and English.
 * <a href="https://sunnah.com/" target="_blank" rel="noopener noreferrer">Sunnah.com</a> - Hadith collections from major books. Supports Arabic and English.
+* <a href="https://mawaqit.net/en/" target="_blank" rel="noopener noreferrer">Mawaqit</a> 🌟 - Web platform for mosque management, displaying prayer times, announcements, themes, weather, and remote control features. Free waqf service for Muslims.
 * <a href="https://www.al-islam.org/" target="_blank" rel="noopener noreferrer">Al-Islam.org</a> - Free Islamic learning resources, books, and lectures. Supports English.
 * <a href="https://www.islamiconlineuniversity.com/" target="_blank" rel="noopener noreferrer">Islamic Online University (IOU)</a> - Free courses on Islamic topics. Supports English.
 * <a href="https://www.khanacademy.org/" target="_blank" rel="noopener noreferrer">Khan Academy (Islamic Sections)</a> - Educational videos on Islamic history and concepts. Supports English.
@@ -141,6 +143,7 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 
 * <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - تطبيق شامل مع قرآن، بحث حديث، أوقات صلاة، وأكثر. يدعم العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=net.andromo.dev540689.app524253" target="_blank" rel="noopener noreferrer">محمد صديق المنشاوي</a> - تطبيق يحتوي على القرآن الكريم كاملاً بصوت الشيخ محمد صديق المنشاوي بدون إنترنت، مع إعلانات. يدعم العربية.
+* <a href="https://mawaqit.net/en/" target="_blank" rel="noopener noreferrer">Mawaqit</a> 🌟 - تطبيق مجاني لأوقات الصلاة الدقيقة، بحث عن المساجد عبر الجيولوجيا، إشعارات الأذان، تذكيرات، إعلانات، وتكامل مع أليكسا وهوم أسيستانت. يدعم لغات متعددة بما في ذلك العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=com.pakdata.QuranMajeed" target="_blank" rel="noopener noreferrer">Quran Majeed</a> 🌟 - قراءة القرآن مع ترجمات، تلاوات، وتذكيرات الصلاة. يشمل تفسير وأدوات حفظ. يدعم العربية والإنجليزية.
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - تطبيق تلاوة قرآنية مدعوم بالذكاء الاصطناعي لحفظ وتصحيح. يدعم العربية والإنجليزية.
 * <a href="https://www.pillarsapp.com/" target="_blank" rel="noopener noreferrer">Pillars</a> 🌟 - تطبيق صلاة خالي من الإعلانات مع التركيز على الخصوصية، أوقات دقيقة، وقبلة. يدعم لغات متعددة.
@@ -157,6 +160,7 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 
 * <a href="https://quran.com/" target="_blank" rel="noopener noreferrer">Quran.com</a> 🌟 - قارئ قرآن عبر الإنترنت مع ترجمات، صوت، وتفسير. يدعم العربية والإنجليزية.
 * <a href="https://sunnah.com/" target="_blank" rel="noopener noreferrer">Sunnah.com</a> - مجموعات أحاديث من الكتب الرئيسية. يدعم العربية والإنجليزية.
+* <a href="https://mawaqit.net/en/" target="_blank" rel="noopener noreferrer">Mawaqit</a> 🌟 - منصة ويب لإدارة المساجد، عرض أوقات الصلاة، الإعلانات، الثيمات، الطقس، وميزات التحكم عن بعد. خدمة وقف مجانية للمسلمين.
 * <a href="https://www.al-islam.org/" target="_blank" rel="noopener noreferrer">Al-Islam.org</a> - موارد تعليم إسلامية مجانية، كتب، ومحاضرات. يدعم العربية.
 * <a href="https://www.islamiconlineuniversity.com/" target="_blank" rel="noopener noreferrer">Islamic Online University (IOU)</a> - دورات مجانية في مواضيع إسلامية. يدعم العربية.
 * <a href="https://www.islamicfinder.org/" target="_blank" rel="noopener noreferrer">IslamicFinder</a> - نسخة ويب لأوقات الصلاة. يدعم لغات متعددة.
