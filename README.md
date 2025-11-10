@@ -21,6 +21,7 @@ These compile apps, tools, and guides for Islamic practice. Use them for compreh
 ### Mobile Apps
 Essential apps for prayer, Quran, and daily reminders. Many are free with optional premium features.
 
+* <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - Comprehensive app with Quran, Hadith search, prayer times, and more. Supports Arabic and English.
 * <a href="https://play.google.com/store/apps/details?id=com.pakdata.QuranMajeed" target="_blank" rel="noopener noreferrer">Quran Majeed</a> 🌟 - Quran reading with translations, recitations, and prayer reminders. Includes tafsir and memorization tools. Supports Arabic and English.
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - AI-powered Quran recitation app for memorization and correction. Supports Arabic and English.
 * <a href="https://www.pillarsapp.com/" target="_blank" rel="noopener noreferrer">Pillars</a> 🌟 - Ad-free prayer app with privacy focus, accurate times, and Qibla. Supports multiple languages.
@@ -28,7 +29,6 @@ Essential apps for prayer, Quran, and daily reminders. Many are free with option
 * <a href="https://www.mathani.app/blog/best-islamic-apps-to-support-quran-journey-2025" target="_blank" rel="noopener noreferrer">Quranly</a> - Habit-building app for daily Quran reading. Supports English.
 * <a href="https://www.mathani.app/" target="_blank" rel="noopener noreferrer">Mathani</a> - Quran memorization tool with progress tracking. Supports English.
 * <a href="https://bayyinah.tv/" target="_blank" rel="noopener noreferrer">Bayyinah TV</a> - Tafsir and Islamic lectures for deeper understanding. Supports English.
-* <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - Comprehensive app with Quran, Hadith search, prayer times, and more. Supports Arabic and English.
 * <a href="https://www.islamicfinder.org/" target="_blank" rel="noopener noreferrer">IslamicFinder</a> - Prayer times, Qibla, and mosque locator. Supports multiple languages.
 * <a href="https://play.google.com/store/apps/details?id=com.fyxtech.muslim" target="_blank" rel="noopener noreferrer">WeMuslim</a> - Simple app for prayer and Quran, with 50M+ downloads. Supports multiple languages including Arabic and English.
 * <a href="https://play.google.com/store/apps/details?id=com.areebb.Kalaam&pcampaignid=web_share&ref=tarteel.ai" target="_blank" rel="noopener noreferrer">Kalaam</a> - Helps understand Quran words and vocabulary. Supports English.
@@ -62,6 +62,8 @@ Essential apps for prayer, Quran, and daily reminders. Many are free with option
 * <a href="https://www.muslimahapp.com/" target="_blank" rel="noopener noreferrer">Muslimah</a> - App for Muslim women. Supports English.
 * <a href="https://apps.apple.com/us/app/deen-buddy-quran-chat/id6740403566" target="_blank" rel="noopener noreferrer">Deen Buddy</a> - Quran chat app for new Muslims. Supports English.
 * <a href="https://gtaf.org/apps/sadiq/" target="_blank" rel="noopener noreferrer">Sadiq Islamic App</a> - Duas, prayer reminders, Hijri calendar. Supports English.
+* <a href="https://zoya.finance/" target="_blank" rel="noopener noreferrer">Zoya</a> - Halal investing app for screening and tracking Shariah-compliant stocks, ETFs, and funds using AAOIFI standards. Features portfolio sync, alerts, and Zakat calculator. Supports English.
+* <a href="https://www.purepofo.com/" target="_blank" rel="noopener noreferrer">PurePofo</a> - Tool for finding halal stocks and building high-performing portfolios. Supports English.
 
 ### Desktop & Web Tools
 For broader access on computers or browsers.
@@ -94,7 +96,7 @@ For developers building Islamic tools.
 * <a href="https://github.com/batoulapps/adhan" target="_blank" rel="noopener noreferrer">AlAdhan API</a> - Prayer times API. Supports multiple languages.
 * <a href="https://quran.api-docs.io/" target="_blank" rel="noopener noreferrer">Quran.com API</a> - Quran data access. Supports English.
 * <a href="https://sunnah.com/api" target="_blank" rel="noopener noreferrer">Sunnah API</a> - Hadith API. Supports English.
-* 
+* <a href="https://zoya.finance/api" target="_blank" rel="noopener noreferrer">Zoya Finance API</a> - Paid API for Shariah compliance data on 40,000+ global stocks and funds, with SDK and documentation for developers. Focuses on Islamic finance. Supports English.
 
 ### Extensions & Others
 Browser tools and miscellaneous.
@@ -137,12 +139,12 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 ### تطبيقات الهواتف المحمولة
 تطبيقات أساسية للصلاة والقرآن والتذكيرات اليومية. الكثير منها مجاني مع ميزات إضافية اختيارية.
 
+* <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - تطبيق شامل مع قرآن، بحث حديث، أوقات صلاة، وأكثر. يدعم العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=net.andromo.dev540689.app524253" target="_blank" rel="noopener noreferrer">محمد صديق المنشاوي</a> - تطبيق يحتوي على القرآن الكريم كاملاً بصوت الشيخ محمد صديق المنشاوي بدون إنترنت، مع إعلانات. يدعم العربية.
 * <a href="https://play.google.com/store/apps/details?id=com.pakdata.QuranMajeed" target="_blank" rel="noopener noreferrer">Quran Majeed</a> 🌟 - قراءة القرآن مع ترجمات، تلاوات، وتذكيرات الصلاة. يشمل تفسير وأدوات حفظ. يدعم العربية والإنجليزية.
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - تطبيق تلاوة قرآنية مدعوم بالذكاء الاصطناعي لحفظ وتصحيح. يدعم العربية والإنجليزية.
 * <a href="https://www.pillarsapp.com/" target="_blank" rel="noopener noreferrer">Pillars</a> 🌟 - تطبيق صلاة خالي من الإعلانات مع التركيز على الخصوصية، أوقات دقيقة، وقبلة. يدعم لغات متعددة.
 * <a href="https://play.google.com/store/apps/details?id=com.islam.hisn" target="_blank" rel="noopener noreferrer">Hisnul Muslim</a> - أدعية وأذكار من القرآن والحديث، مع تذكيرات. يدعم العربية والإنجليزية.
-* <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - تطبيق شامل مع قرآن، بحث حديث، أوقات صلاة، وأكثر. يدعم العربية والإنجليزية.
 * <a href="https://www.islamicfinder.org/" target="_blank" rel="noopener noreferrer">IslamicFinder</a> - أوقات الصلاة، قبلة، ومحدد المساجد. يدعم لغات متعددة.
 * <a href="https://play.google.com/store/apps/details?id=com.fyxtech.muslim" target="_blank" rel="noopener noreferrer">WeMuslim</a> - تطبيق بسيط للصلاة والقرآن. يدعم لغات متعددة بما في ذلك العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=com.quran.labs.androidquran" target="_blank" rel="noopener noreferrer">Quran by Quran.com</a> 🌟 - تطبيق مصحف خالي من الإعلانات للقراءة والاستماع. يدعم العربية والإنجليزية.
@@ -172,6 +174,7 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 * <a href="https://github.com/batoulapps/adhan" target="_blank" rel="noopener noreferrer">AlAdhan API</a> - واجهة برمجة لأوقات الصلاة. يدعم لغات متعددة.
 * <a href="https://quran.api-docs.io/" target="_blank" rel="noopener noreferrer">Quran.com API</a> - الوصول إلى بيانات القرآن. يدعم العربية.
 * <a href="https://sunnah.com/api" target="_blank" rel="noopener noreferrer">Sunnah API</a> - واجهة للأحاديث. يدعم العربية.
+* <a href="https://zoya.finance/api" target="_blank" rel="noopener noreferrer">Zoya Finance API</a> - واجهة برمجة مدفوعة لبيانات الامتثال الشرعي لأكثر من 40,000 سهم وعملة، مع SDK للمطورين. تركز على التمويل الإسلامي. يدعم العربية.
 
 ### إضافات وغيرها
 أدوات المتصفح ومتنوعة.
