@@ -85,7 +85,6 @@ For broader access on computers or browsers.
 * <a href="https://quran.com/" target="_blank" rel="noopener noreferrer">Quran.com</a> 🌟 - Online Quran reader with translations, audio, and tafsir. Supports Arabic and English.
 * <a href="https://sunnah.com/" target="_blank" rel="noopener noreferrer">Sunnah.com</a> - Hadith collections from major books. Supports Arabic and English.
 * <a href="https://mawaqit.net/en/" target="_blank" rel="noopener noreferrer">Mawaqit</a> 🌟 - Web platform for mosque management, displaying prayer times, announcements, themes, weather, and remote control features. Free waqf service for Muslims.
-* <a href="https://www.al-islam.org/" target="_blank" rel="noopener noreferrer">Al-Islam.org</a> - Free Islamic learning resources, books, and lectures. Supports English.
 * <a href="https://www.islamiconlineuniversity.com/" target="_blank" rel="noopener noreferrer">Islamic Online University (IOU)</a> - Free courses on Islamic topics. Supports English.
 * <a href="https://www.khanacademy.org/" target="_blank" rel="noopener noreferrer">Khan Academy (Islamic Sections)</a> - Educational videos on Islamic history and concepts. Supports English.
 * <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube Channels</a> - Channels like Bayyinah Institute for tafsir and lectures. Supports English.
