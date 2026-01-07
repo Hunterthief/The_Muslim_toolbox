@@ -40,6 +40,7 @@ Reddit communities for discussions on Islam, Quran, and related topics.
 Essential apps for prayer, Quran, and daily reminders. Many are free with optional premium features.
 
 * <a href="https://haramblur.com/" target="_blank" rel="noopener noreferrer">Haram Blur</a> 🌟 - Mobile app that helps users filter and blur haram content online, including images, videos, and websites. Supports Android and iOS. Privacy-focused and ad-free.
+* <a href="https://play.google.com/store/apps/details?id=com.karim.khatma&hl=ar" target="_blank" rel="noopener noreferrer">Khatma (نختم)</a> 🌟 - A Quran khatma planning app that helps individuals or groups complete the Quran by dividing portions automatically. Ideal for Ramadan and group recitations, with progress tracking and reminders. Supports Arabic.
 * <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - Comprehensive app with Quran, Hadith search, prayer times, and more. Supports Arabic and English.
 * <a href="https://play.google.com/store/apps/details?id=com.pakdata.QuranMajeed" target="_blank" rel="noopener noreferrer">Quran Majeed</a> 🌟 - Quran reading with translations, recitations, and prayer reminders. Includes tafsir and memorization tools. Supports Arabic and English.
 * <a href="https://tarteel.ai/" target="_blank" rel="noopener noreferrer">Tarteel</a> 🌟 - AI-powered Quran recitation app for memorization and correction. Supports Arabic and English.
@@ -164,6 +165,7 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 تطبيقات أساسية للصلاة والقرآن والتذكيرات اليومية. الكثير منها مجاني مع ميزات إضافية اختيارية.
 
 * <a href="https://haramblur.com/" target="_blank" rel="noopener noreferrer">Haram Blur</a> 🌟 - تطبيق يساعد المستخدمين على تصفية وتمويه المحتوى الحرام على الإنترنت، بما في ذلك الصور والفيديوهات والمواقع. يدعم أندرويد وiOS. يركز على الخصوصية وخالي من الإعلانات.
+* <a href="https://play.google.com/store/apps/details?id=com.karim.khatma&hl=ar" target="_blank" rel="noopener noreferrer">نختم</a> 🌟 - تطبيق لتنظيم ختمة القرآن للأفراد أو المجموعات، يقوم بتقسيم الأجزاء تلقائيًا مع متابعة التقدم والتنبيهات. مناسب لرمضان والختمات الجماعية. يدعم العربية.
 * <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - تطبيق شامل مع قرآن، بحث حديث، أوقات صلاة، وأكثر. يدعم العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=net.andromo.dev540689.app524253" target="_blank" rel="noopener noreferrer">محمد صديق المنشاوي</a> - تطبيق يحتوي على القرآن الكريم كاملاً بصوت الشيخ محمد صديق المنشاوي بدون إنترنت، مع إعلانات. يدعم العربية.
 
