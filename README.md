@@ -213,7 +213,6 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 
 ### منصات التعلم
 دورات عبر الإنترنت وأكاديميات للتعليم الإسلامي.
-<div dir="rtl">
 * <a href="https://zad-academy.com/" target="_blank" rel="noopener noreferrer">Zad Academy</a> - تعليم إسلامي عالي الجودة عبر الإنترنت. يدعم العربية.
 * <a href="https://simplyislam.academy/" target="_blank" rel="noopener noreferrer">SimplyIslam Academy</a> - أكثر من 100 ساعة من الدورات والندوات. يدعم العربية.
 * <a href="https://www.albalaghacademy.org/" target="_blank" rel="noopener noreferrer">Al Balagh Academy</a> - دورات للتطور الروحي. يدعم العربية.
@@ -222,7 +221,6 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 * <a href="https://mishkahu.com/" target="_blank" rel="noopener noreferrer">Mishkah University</a> - تعليم إسلامي غني. يدعم العربية.
 * <a href="https://firdawsacademy.com/learn-islam-online/" target="_blank" rel="noopener noreferrer">Firdaws Academy</a> - عربية، تجويد قرآن، إجازة. يدعم العربية.
 * <a href="https://www.almaghrib.org/" target="_blank" rel="noopener noreferrer">AlMaghrib Institute</a> - دروس قصيرة من علماء. يدعم العربية.
-</div>
 ### نصائح الاستخدام
 قارن التطبيقات لدقة أوقات الصلاة. لدراسة القرآن، اجمع القراء مع تطبيقات التفسير. فعل الإشعارات للتذكيرات. استخدم ماسحات الحلال للتسوق.
 
