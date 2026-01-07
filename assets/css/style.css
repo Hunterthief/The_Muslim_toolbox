@@ -28,6 +28,13 @@ body {
     direction: rtl;
 }
 
+/* Force Arabic bullets to appear on the right */
+.markdown-body [dir="rtl"] li {
+    direction: rtl;        /* forces text direction */
+    unicode-bidi: embed;   /* isolates bidi behavior so bullet stays correct */
+    text-align: right;     /* optional: aligns text nicely under the bullet */
+}
+
 .markdown-body [dir="ltr"] {
     direction: ltr;
 }
