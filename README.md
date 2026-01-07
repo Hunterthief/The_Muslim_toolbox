@@ -1,4 +1,4 @@
-# Islamic Resources Megathread
+# The_Muslim_toolbox
 
 A curated list of Islamic and Muslim apps, tools, resources, and aggregators for daily worship, learning, and community. This includes prayer times, Quran readers, Hadith collections, halal finders, productivity tools, and more. Items with a 🌟 icon are highly recommended based on popularity, reliability, and features. Focus on ad-free or privacy-focused options where possible.
 
