@@ -1,4 +1,4 @@
-# The_Muslim_toolbox
+<h1 style="text-align:center;">The Muslim Toolbox</h1>
 
 A curated list of Islamic and Muslim apps, tools, resources, and aggregators for daily worship, learning, and community. This includes prayer times, Quran readers, Hadith collections, halal finders, productivity tools, and more. Items with a 🌟 icon are highly recommended based on popularity, reliability, and features. Focus on ad-free or privacy-focused options where possible.
 
@@ -6,7 +6,10 @@ If you have suggestions or find errors, feel free to contribute via relevant Git
 
 ⚠️ Prioritize apps from trusted developers to avoid misinformation. Use ad blockers for web resources. Always verify Islamic content with reliable scholars.
 
-[Arabic Resources](#arabic-resources) | [English Resources](#english-resources)
+<p style="text-align:center;">
+  <a href="#arabic-resources">Arabic Resources</a> | 
+  <a href="#english-resources">English Resources</a>
+</p>
 
 ## English Resources
 
@@ -142,7 +145,8 @@ Cross-reference apps for accuracy in prayer times. For Quran study, combine read
 
 ### Safety Notes
 Download from official stores. Check reviews for authenticity. Consult scholars for interpretations.
-
+<div dir="rtl">
+  
 ## Arabic Resources
 
 ### قوائم مختارة ومجموعات كبيرة
@@ -225,3 +229,4 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 
 ### ملاحظات السلامة
 حمل من المتاجر الرسمية. تحقق من التقييمات للأصالة. استشر العلماء للتفسيرات.
+</div>
