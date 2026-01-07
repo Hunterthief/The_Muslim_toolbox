@@ -1,4 +1,6 @@
 <h1 style="text-align:center;">The Muslim Toolbox</h1>
+<img width="2000" height="472" alt="بسم الله الرحمن الرحيم" src="https://github.com/user-attachments/assets/6d395300-7176-4a36-9138-73a363d07d06" />
+
 
 A curated list of Islamic and Muslim apps, tools, resources, and aggregators for daily worship, learning, and community. This includes prayer times, Quran readers, Hadith collections, halal finders, productivity tools, and more. Items with a 🌟 icon are highly recommended based on popularity, reliability, and features. Focus on ad-free or privacy-focused options where possible.
 
