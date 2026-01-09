@@ -159,13 +159,12 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 هذه تجمع التطبيقات والأدوات والدليل للممارسة الإسلامية. استخدمها لنظرة شاملة.
 
 * <a href="https://github.com/choubari/Awesome-Muslims" target="_blank" rel="noopener noreferrer">Awesome-Muslims</a> 🌟 - قائمة مختارة من الموارد المفتوحة المصدر للمطورين المسلمين، بما في ذلك تطبيقات الهواتف المحمولة، واجهات البرمجة، والمكتبات لأوقات الصلاة والقرآن وغيرها.
-* <a href="https://github.com/AhmedKamal/awesome-Islam" target="_blank" rel="noopener noreferrer">Awesome-Islam</a> 🌟 - مجموعة أخرى مختارة من المشاريع المتعلقة بالإسلام، الإطارات، والموارد مثل تطبيقات القرآن وأدوات التعلم.
-
-### تطبيقات الهواتف المحمولة
+* <a href="https://github.com/AhmedKamal/awesome-Islam" target="_blank" rel="noopener noreferrer">Awesome-Islam</a> 🌟 - مجموعة أخرى مختارة من المشاريع المتعلقة بالإسلام، الإطارات، والموارد مثل تطبيقات القرآن وأدوات التعلم.href# تطبيقات الهواتف المحمولة
 تطبيقات أساسية للصلاة والقرآن والتذكيرات اليومية. الكثير منها مجاني مع ميزات إضافية اختيارية.
 
 * <a href="https://haramblur.com/" target="_blank" rel="noopener noreferrer">Haram Blur</a> 🌟 - تطبيق يساعد المستخدمين على تصفية وتمويه المحتوى الحرام على الإنترنت، بما في ذلك الصور والفيديوهات والمواقع. يدعم أندرويد وiOS. يركز على الخصوصية وخالي من الإعلانات.
 * <a href="https://play.google.com/store/apps/details?id=com.karim.khatma&hl=ar" target="_blank" rel="noopener noreferrer">نختم</a> 🌟 - تطبيق لتنظيم ختمة القرآن للأفراد أو المجموعات، يقوم بتقسيم الأجزاء تلقائيًا مع متابعة التقدم والتنبيهات. مناسب لرمضان والختمات الجماعية. يدعم العربية.
+* <a href="https://play.google.com/store/apps/details?id=com.genzbyrmadn.ketat_nagah" target="_blank" rel="noopener noreferrer">خطة نجاة</a> 🌟 -تطبيق  يعتمد على أسلوب الألعاب (Gamification)، يتيح تنظيم الورد القرآني، متابعة الصلوات والعبادات اليومية، وكسب نقاط وخبرة (XP) عند إتمام المهام مثل الصلاة، الذكر، وقراءة القرآن. يساعد على الاستمرارية والانضباط وتحفيز النفس طوال الشهر. يدعم العربية.
 * <a href="https://play.google.com/store/apps/details?id=com.islam360" target="_blank" rel="noopener noreferrer">Islam 360</a> 🌟 - تطبيق شامل مع قرآن، بحث حديث، أوقات صلاة، وأكثر. يدعم العربية والإنجليزية.
 * <a href="https://play.google.com/store/apps/details?id=net.andromo.dev540689.app524253" target="_blank" rel="noopener noreferrer">محمد صديق المنشاوي</a> - تطبيق يحتوي على القرآن الكريم كاملاً بصوت الشيخ محمد صديق المنشاوي بدون إنترنت، مع إعلانات. يدعم العربية.
 
