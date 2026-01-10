@@ -34,7 +34,6 @@ Reddit communities for discussions on Islam, Quran, and related topics.
 * <a href="https://www.reddit.com/r/MuslimCorner/" target="_blank" rel="noopener noreferrer">r/MuslimCorner</a> 🌟 - A subreddit hosting discussions on Islamic perspectives, such as gender interactions and marriage rights, with a focus on community engagement and contributions.
 * <a href="https://www.reddit.com/r/TraditionalMuslims/" target="_blank" rel="noopener noreferrer">r/TraditionalMuslims</a> - A community for traditional Muslims, emphasizing respect for Islam with rules against insulting Islamic figures, mocking the Quran, or making fun of hadith, and requiring claims to be cited.
 * <a href="https://www.reddit.com/r/IslamicFinance/" target="_blank" rel="noopener noreferrer">r/IslamicFinance</a> - A place to explore Islamic finance through news articles, academic work, and debates, with discussions on halal investing, banking, and related topics.
-* <a href="https://www.reddit.com/r/IslamIsEasy/" target="_blank" rel="noopener noreferrer">r/IslamIsEasy</a> 🌟 - A subreddit promoting a Quran-centric approach to Islam, emphasizing historical reliability of rituals and questioning Hadith details, with rules encouraging aligned discussions.
 
 ### Mobile Apps
 Essential apps for prayer, Quran, and daily reminders. Many are free with optional premium features.
