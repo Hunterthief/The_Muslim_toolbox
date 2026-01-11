@@ -86,6 +86,7 @@ Essential apps for prayer, Quran, and daily reminders. Many are free with option
 * <a href="https://gtaf.org/apps/sadiq/" target="_blank" rel="noopener noreferrer">Sadiq Islamic App</a> - Duas, prayer reminders, Hijri calendar. Supports English.
 * <a href="https://zoya.finance/" target="_blank" rel="noopener noreferrer">Zoya</a> - Halal investing app for screening and tracking Shariah-compliant stocks, ETFs, and funds using AAOIFI standards. Features portfolio sync, alerts, and Zakat calculator. Supports English.
 * <a href="https://www.purepofo.com/" target="_blank" rel="noopener noreferrer">PurePofo</a> - Tool for finding halal stocks and building high-performing portfolios. Supports English.
+* <a href="https://www.islamicfinance.app/islamic-mortgage-calculator" target="_blank" rel="noopener noreferrer">Islamic Mortgage Calculator</a>href free, easy-to-use calculator for comparing Islamic home financing options. Helps estimate payments based on Shariah-compliant models such as Murabaha and Ijara, making it useful for Muslims seeking halal alternatives to conventional mortgages. Web-based, no signup required.
 
 ### Desktop & Web Tools
 For broader access on computers or browsers.
