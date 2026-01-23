@@ -126,6 +126,7 @@ For developers building Islamic tools.
 Browser tools and miscellaneous.
 
 * <a href="https://haramblur.com/" target="_blank" rel="noopener noreferrer">Haram Blur Extension</a> 🌟 - A Browser extension that automatically blurs inappropriate or haram content while browsing. Lightweight, privacy-friendly, and free.
+* <a href="https://haram-mute.com/" target="_blank" rel="noopener noreferrer">HaramMute Extension</a> 🌟 - Free browser extension that uses AI to mute/remove background music from YouTube videos with one click. Privacy-focused, local processing, helps avoid haram music. Supports English.
 * <a href="https://chromewebstore.google.com/detail/muslim-companion/pmlpkomimnkpjkkamingmlgifjiaefnh" target="_blank" rel="noopener noreferrer">Muslim Companion Extension</a> - Prayer times, Qibla, and quotes for Chrome. Supports English.
 * <a href="https://nur-ai.zetrix.com/" target="_blank" rel="noopener noreferrer">NurAI</a> - AI based on Quran and Hadith for questions. Supports English.
 * <a href="https://www.mobisaria.com/" target="_blank" rel="noopener noreferrer">Mobisaria</a> - Halal travel, finance, and charity platform. Supports English.
@@ -211,6 +212,7 @@ Download from official stores. Check reviews for authenticity. Consult scholars 
 أدوات المتصفح ومتنوعة.
 
 * <a href="https://haramblur.com/" target="_blank" rel="noopener noreferrer">Haram Blur Extension</a> 🌟 - إضافة لمتصفحي Chrome وEdge تقوم تلقائيًا بتمويه المحتوى غير المناسب أو الحرام أثناء التصفح. خفيفة، تحافظ على الخصوصية ومجانية.
+* <a href="https://haram-mute.com/" target="_blank" rel="noopener noreferrer">HaramMute Extension</a> 🌟 — إضافة متصفح مجانية تزيل أو تكتم الموسيقى الخلفية من فيديوهات يوتيوب بنقرة واحدة باستخدام الذكاء الاصطناعي. تركز على الخصوصية، معالجة محلية، تساعد على تجنب الموسيقى الحرام. يدعم العربية والإنجليزية.
 * <a href="https://chromewebstore.google.com/detail/muslim-companion/..." target="_blank" rel="noopener noreferrer">Muslim Companion Extension</a> - أوقات الصلاة، قبلة، واقتباسات لكروم. يدعم العربية.
 * <a href="https://nur-ai.zetrix.com/" target="_blank" rel="noopener noreferrer">NurAI</a> - ذكاء اصطناعي مبني على القرآن والحديث للأسئلة. يدعم العربية.
 * <a href="https://www.mobisaria.com/" target="_blank" rel="noopener noreferrer">Mobisaria</a> - منصة سفر حلال، تمويل، وصدقة. يدعم العربية.
